@@ -1,0 +1,2 @@
+console.log("I'm awesome");  // I fixed it by adding "double quotation" because the element includes a 'single quotation'.
+console.log('I\'m awesome'); // I fixed it by adding (\ backslash) before the 'single quotation'.
